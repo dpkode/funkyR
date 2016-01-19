@@ -1,0 +1,15 @@
+Package: funkyR
+Title: Useful Functions for Crunching Crummy Fishy Data
+Version: 0.0.0.9000
+Authors@R: person("Patrick", "Kilduff", email = "dpk@someemail.com", role = c("aut", "cre"))
+Description: See the title, then think about it and ponder what great things
+    this newfound package can do for you.
+Depends: 
+    R (>= 3.2.3)
+License: Good Question - someone in the audience want to help on this?
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
